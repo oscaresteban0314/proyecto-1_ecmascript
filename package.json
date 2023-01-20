@@ -1,0 +1,15 @@
+{
+  "name": "ecma_script",
+  "version": "1.0.0",
+  "description": "curso platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Oscar Arenas <oscarestebanarenas@gmail.com>",
+  "license": "MIT"
+}
